@@ -104,3 +104,13 @@ main {
     }
   }
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: #d8b0b0;
+
+  svg {
+    padding: 10px;
+  }
+}
