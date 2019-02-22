@@ -118,8 +118,20 @@ function App() {
           </section>
         </main>
         <footer className="footer">
-          <FaGithubAlt />
-          <FaLinkedinIn />
+          <a
+            href="https://github.com/Rinzler555"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGithubAlt />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/egidijus-balzaris-42584040/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaLinkedinIn />
+          </a>
         </footer>
       </div>
     </React.Fragment>
